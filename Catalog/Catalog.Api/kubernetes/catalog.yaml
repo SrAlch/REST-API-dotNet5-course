@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: catalog
-        image: sralch/catalog:v2
+        image: sralch/catalog:v3
         resources:
           limits:
             memory: "128Mi"
